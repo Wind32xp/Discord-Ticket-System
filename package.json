@@ -1,0 +1,14 @@
+{
+  "name": "discord-ticket-system",
+  "version": "1.0.0",
+  "description": "Sistema de tickets para Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "author": "",
+  "license": "MIT"
+}
